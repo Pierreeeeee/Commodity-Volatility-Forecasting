@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Ce notebook propose l'étude d'un jeu de données `features.csv` et la modélisation de sa relation avec les variables cibles `output1_1w` et `output1_1m`.  
+Réalisé dans le cadre d'un hackathon d'une semaine courant mars 2025, ce notebook propose l'étude d'un jeu de données `features.csv` et la modélisation de sa relation avec les variables cibles `output1_1w` et `output1_1m`.  
 Face à la nature des données, l'approche retenue a été un entraînement semi-supervisé d'un modèle `RandomForestRegressor` et d'un ensemble de modèles optimisé par Autogluon (framework AutoML).  
 Les deux variables cibles ont été traitées séparément, avec les résultats suivants :
 

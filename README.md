@@ -1,6 +1,4 @@
-# Sucden - Trading Quantitatif / Machine Learning
-
-**Auteur : Pierre El Anati**
+/!\ Etant donné la confidentialité des données, celles-ci ont été supprimées du repo public afin de ne présenter que la modélisation /!\
 
 ## Contexte
 
@@ -20,8 +18,6 @@ Pour atteindre ces résultats, plusieurs approches ont été explorées (apprent
 Cependant, pour des raisons de clarté, seule l’approche la plus performante est présentée dans le notebook.
 
 Plusieurs visualisations ont également été réalisées afin de confirmer ou infirmer certaines intuitions, mais ne figurent pas dans la version finale du notebook.
-
-/!\ Etant donné la confidentialité des données, celles-ci ont été supprimées du repo public afin de ne présenter que la modélisation /!\
 
 ## Bibliothèques Utilisées
 
